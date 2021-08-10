@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ashutosh90052
+### Hi, I’m Ashutosh kumar 👋
 - 👀 I’m interested in web deveopment
 - 🌱 I’m currently learning Bootstrap
-- 💞️ I’m looking to collaborate on IBM
-- 📫 How to reach me need
+- 💞️ I’m looking to collaborate on Youtube
+- 📫 How to reach me Twitter
 
 <!---
 ashutosh90052/ashutosh90052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
